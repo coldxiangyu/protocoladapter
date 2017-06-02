@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="protocoladapter"
+  id="myeclipse.1496283010589"
+  context-root="/protocoladapter"
+  j2ee-spec="6.0"
+  archive="protocoladapter.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

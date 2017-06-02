@@ -1,0 +1,4 @@
+com\lxy\webservice\impl\HelloServiceImpl.class
+com\lxy\cxf\CxfConfig.class
+com\lxy\controller\SampleController.class
+com\lxy\webservice\HelloService.class
